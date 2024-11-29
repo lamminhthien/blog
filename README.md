@@ -13,6 +13,7 @@ Chào mừng bạn đến với **Lâm Minh Thiện Blog**! Đây là nơi tôi 
 - [Lệnh clear cache macOS](./lenh-clear-cache-macos.md)
 - [Lệnh clear cache Chrome, VSCode, Cursor](./lenh-clear-cache-chrome-vscode-cursor.md)
 - [Xem log docker](./log-container-docker.md)
+- [Backup database tự động với Github Action và AWS S3](./tu-dong-backup-database-voi-github-action-va-amazon-s3.md)
 
 ---
 
