@@ -17,5 +17,3 @@ Chào mừng bạn đến với **Lâm Minh Thiện Blog**! Đây là nơi tôi 
 Cảm ơn bạn đã ghé thăm **Lâm Minh Thiện Blog**! Nếu có câu hỏi hoặc đề xuất, hãy tạo một [issue](https://github.com/username/repository/issues) trên GitHub.
 
 > *Không ngừng học hỏi, chia sẻ và phát triển!*
-
-<iframe width="1276" height="718" src="https://www.youtube.com/embed/2emxLcSzzWA" title="2 Ngày 1 Đêm Việt Nam - Tập 24: Kiều Minh Tuấn &quot;tét mông&quot; với những cú tung đòn từ Dương Lâm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
