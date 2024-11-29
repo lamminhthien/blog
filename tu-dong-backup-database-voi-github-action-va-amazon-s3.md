@@ -43,7 +43,7 @@ jobs:
     - name: Setup dependencies
       run: |
         sudo apt-get update
-        sudo apt-get install -y postgresql-client gzip
+        sudo apt-get install -y postgresql-client gzip awscli
 
     # 3. Backup PostgreSQL
     - name: Backup PostgreSQL database
