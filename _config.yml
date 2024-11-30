@@ -1,2 +1,86 @@
-name: ""
-title: null
+# Site settings
+title: Lâm Minh Thiện | Kỹ thuật & Công nghệ
+description: Blog chia sẻ kiến thức chuyên sâu về quản trị server, docker, database, và các công nghệ lập trình
+author: 
+  name: Lâm Minh Thiện
+  email: lamminhthien02012000@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /blog/:year/:month/:day/:title/
+
+# Plugins (if using GitHub Pages)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+
+# Markdown processing
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Conversion
+timezone: Asia/Ho_Chi_Minh
+
+# Outputting
+url: "https://lamminhtien.github.io"
+baseurl: ""
+
+# Collections
+collections:
+  tutorials:
+    output: true
+    permalink: /tutorials/:path/
+  blog:
+    output: true
+    permalink: /blog/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      comments: true
+  - scope:
+      path: ""
+      type: "blog"
+    values:
+      layout: blog-post
+  - scope:
+      path: ""
+      type: "tutorials"
+    values:
+      layout: tutorial
+
+# Pagination
+paginate: 10
+paginate_path: "/blog/page:num/"
+
+# SEO Tag
+title-separator: "|"
+
+# Social
+social:
+  name: Lâm Minh Thiện
+  links:
+    - https://twitter.com/lamminhtien
+    - https://github.com/lamminhtien
+    - https://linkedin.com/in/lamminhtien
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+  - CHANGELOG.md
+  - LICENSE
