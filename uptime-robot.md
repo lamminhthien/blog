@@ -2,11 +2,13 @@
 
 Uptime Robot là một công cụ giúp theo dõi trạng thái hoạt động của các website, API, hoặc server. Hệ thống sẽ gửi thông báo khi phát hiện downtime hoặc bất kỳ vấn đề nào. 
 
+![Uptime Robot](./images/uptime-robot/uptime-robot.webp)
+
+
 ## 1. Đăng ký và Đăng nhập
 1. Truy cập trang web: [https://uptimerobot.com/](https://uptimerobot.com/).
 2. Nhấp vào nút **Sign Up Free** để tạo tài khoản (hoặc đăng nhập nếu đã có tài khoản).
 3. Điền email, mật khẩu và xác nhận tài khoản qua email.
-
 ---
 
 ## 2. Tạo Monitor (Giám sát)
@@ -14,6 +16,7 @@ Uptime Robot là một công cụ giúp theo dõi trạng thái hoạt động c
 Sau khi đăng nhập, bạn sẽ được chuyển đến bảng điều khiển (Dashboard).
 
 ### Bước 2: Thêm Monitor
+![Uptime robot add monitor](./images/uptime-robot/uptime-robot-add-monitor.png)
 1. Nhấp vào nút **Add New Monitor**.
 2. Trong cửa sổ bật lên, cấu hình như sau:
    - **Monitor Type**: Chọn loại giám sát:
@@ -29,6 +32,7 @@ Sau khi đăng nhập, bạn sẽ được chuyển đến bảng điều khiể
 ---
 
 ## 3. Cấu hình Thông báo (Alerts)
+![Alert setting](./images/uptime-robot/uptime-robot-alert-setting.png)
 1. Vào mục **My Settings** hoặc **Alert Contacts** từ menu bên trái.
 2. Thêm phương thức nhận thông báo:
    - **Email**: Nhập địa chỉ email để nhận thông báo.
@@ -39,6 +43,7 @@ Sau khi đăng nhập, bạn sẽ được chuyển đến bảng điều khiể
 ---
 
 ## 4. Theo dõi Báo cáo
+![Detail monitor](./images/uptime-robot/uptime-robot-detail-monitor.png)
 1. Từ Dashboard, bạn sẽ thấy danh sách các monitor cùng trạng thái hiện tại (Up/Down).
 2. Nhấp vào tên monitor để xem chi tiết, bao gồm:
    - Thời gian downtime gần nhất.
@@ -57,6 +62,7 @@ Sau khi đăng nhập, bạn sẽ được chuyển đến bảng điều khiể
 ---
 
 ## 6. Tích hợp với Công cụ Khác
+![Integration](./images/uptime-robot/uptime-robot-integration.png)
 Uptime Robot hỗ trợ tích hợp với nhiều công cụ như:
 - **Slack/Discord**: Sử dụng webhook để nhận thông báo trực tiếp trong kênh.
 - **Zapier**: Kết nối với các ứng dụng như Google Sheets, Gmail.
