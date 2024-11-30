@@ -1,8 +1,12 @@
 # Airtable: Cách Mạng Hóa Bảng Tính và Quản Lý Cơ Sở Dữ Liệu
 
+![Airtable Homepage Hero](/images/airtable-blog/homepage_hero_102924_1800x1200px_1x.webp)
+
 ## Giới Thiệu
 
 Airtable là một nền tảng mạnh mẽ, thân thiện với người dùng, kết nối giữa bảng tính truyền thống và hệ thống quản lý cơ sở dữ liệu chuyên nghiệp. Nó mang đến phương pháp tiếp cận độc đáo để tổ chức, theo dõi và cộng tác trên các dự án thuộc nhiều ngành khác nhau.
+
+![Airtable Product Operations](/images/airtable-blog/homepage_carousel_productops_1650x1237_2x.webp)
 
 ## Các Tính Năng Chính của Airtable
 
@@ -11,6 +15,8 @@ Airtable vượt trội hơn các bảng tính truyền thống bằng:
 - Nhiều loại chế độ xem (Lưới, Lịch, Kanban, Thư viện, Gantt)
 - Các trường có thể tùy chỉnh (văn bản, số, checkbox, dropdown, v.v.)
 - Giao diện dễ sử dụng, quen thuộc với người dùng bảng tính
+
+![Airtable Workspace](/images/airtable-blog/what-is-airtable-image4.png)
 
 ### 2. Công Cụ Cộng Tác Mạnh Mẽ
 - Cộng tác theo thời gian thực
@@ -25,6 +31,8 @@ Airtable tích hợp liền mạch với:
 - Google Workspace
 - Zapier
 - Nhiều công cụ năng suất khác
+
+![Airtable Integration](/images/airtable-blog/airtable-intergration.jpg)
 
 ## Các Trường Hợp Sử Dụng
 
