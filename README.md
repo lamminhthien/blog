@@ -42,6 +42,7 @@ Cảm ơn bạn đã ghé thăm **Lâm Minh Thiện Blog**! 🙏 Nếu có câu 
 
 ## 🤝 Kết nối với tôi
 
-- 🐦 Twitter: [@YourTwitter](https://twitter.com/yourusername)
-- 💼 LinkedIn: [Lâm Minh Thiện](https://linkedin.com/in/yourusername)
-- 🐱 GitHub: [lamminhtien](https://github.com/lamminhtien)
+- 💼 LinkedIn: [Thien Lam](https://linkedin.com/in/lamminhthien)
+- 🐱 GitHub: [lamminhthien](https://github.com/lamminhthien)
+- 📨 Email: [lamminhthien02012000@gmail.com](mailto:lamminhthien02012000@gmail.com)
+
