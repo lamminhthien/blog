@@ -22,7 +22,10 @@ Chào mừng bạn đến với **Lâm Minh Thiện Blog**! Đây là nơi tôi 
 - [Lệnh clear cache Chrome, VSCode, Cursor](./lenh-clear-cache-chrome-vscode-cursor.md)
 
 ### 5. **Quản lý Docker**
-- [Xem log docker](./log-container-docker.md)
+- [Xem log container docker](./log-container-docker.md)
+
+### 6. **Công cụ Quản lý dữ liệu**
+- [Airtable: Cách Quản lý Dữ liệu Hiệu Quả](./airtable-blog.md)
 
 ---
 
