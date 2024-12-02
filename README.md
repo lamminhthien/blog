@@ -27,6 +27,9 @@ Chào mừng bạn đến với **Lâm Minh Thiện Blog**! Đây là nơi tôi 
 ### 6. 📊 **Công cụ Quản lý dữ liệu**
 - 📑 [Airtable: Cách Quản lý Dữ liệu Hiệu Quả](./airtable-blog.md)
 
+### 6. 📊 **Trí tuệ nhân tạo**
+- 📑 [Notebook LLM: Công cụ phân tích tài liệu sử dụng AI Gemini](./notebook-llm.md)
+
 ---
 
 🌈 **Tại sao theo dõi blog của tôi?**
