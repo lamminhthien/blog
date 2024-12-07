@@ -8,6 +8,7 @@ Chào mừng bạn đến với **Lâm Minh Thiện Blog**! Đây là nơi tôi 
 - 🔧 [Cài đặt RAM ảo cho server Ubuntu](./cai-dat-ram-ao-cho-server-ubuntu.md)
 - 🐳 [Cài đặt Docker](./cai-dat-docker.md)
 - 🌐 [Cài đặt Docker Nginx Proxy Manager để quản lý tên miền](./cai-dat-docker-nginx-proxy-manager.md)
+- 🌐 [Đưa ứng dụng localhost lên internet với telebit](./telebit.md)
 
 ### 2. 📊 **Quản lý Cơ sở Dữ liệu**
 - 🐘 [Cài đặt PostgreSQL bằng Docker](./cai-dat-database-postgresql-qua-docker.md)
