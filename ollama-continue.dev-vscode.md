@@ -1,4 +1,4 @@
-**Using Continue.dev with Ollama for Local AI Code Assistance**
+# Using Continue.dev with Ollama for Local AI Code Assistance
 
 **Introduction**
 
@@ -29,11 +29,7 @@ Ollama, another open-source tool, simplifies the process of running LLMs locally
 
 **Configuring Continue.dev:**
 
-1. **Open the Continue.dev Extension:** Click on the Continue.dev icon in your IDE.
-2. **Add a Chat Model:** Click on the "Add Chat Model" button.
-3. **Select Ollama as the Provider:** Choose Ollama from the dropdown menu.
-4. **Select the Model:** Choose the model you want to use (e.g., llama3.1) or use can choose Autodetect.
-5. **Connect:** Click the "Connect" button. This will automatically configure Continue.dev to use your local Ollama server.
+[ollama+vscode+conttinue.dev.webm](https://github.com/user-attachments/assets/e5d55f11-118c-48e8-ba54-a213cb179260)
 
 **Using Continue.dev with Ollama:**
 
