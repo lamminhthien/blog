@@ -9,7 +9,6 @@ Chào mừng bạn đến với **Lâm Minh Thiện Blog**! Đây là nơi tôi 
 - 🐳 [Cài đặt Docker](./cai-dat-docker.md)
 - 🌐 [Cài đặt Docker Nginx Proxy Manager để quản lý tên miền](./cai-dat-docker-nginx-proxy-manager.md)
 - 🌐 [Đưa ứng dụng localhost lên internet với telebit](./telebit.md)
-- 🖥️ [Cài đặt Model AI Local và tích hợp sử dụng trên VSCode với Continue.dev extension](./ollama-continue.dev-vscode.md)
 
 ### 2. 📊 **Quản lý Cơ sở Dữ liệu**
 - 🐘 [Cài đặt PostgreSQL bằng Docker](./cai-dat-database-postgresql-qua-docker.md)
@@ -31,6 +30,7 @@ Chào mừng bạn đến với **Lâm Minh Thiện Blog**! Đây là nơi tôi 
 
 ### 6. 📊 **Trí tuệ nhân tạo**
 - 📑 [Notebook LLM: Công cụ phân tích tài liệu sử dụng AI Gemini](./notebook-llm.md)
+- 🖥️ [Cài đặt Model AI Local và tích hợp sử dụng trên VSCode với Continue.dev extension](./ollama-continue.dev-vscode.md)
 
 ---
 
