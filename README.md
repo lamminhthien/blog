@@ -31,6 +31,7 @@ Chào mừng bạn đến với **Lâm Minh Thiện Blog**! Đây là nơi tôi 
 ### 6. 📊 **Trí tuệ nhân tạo**
 - 📑 [Notebook LLM: Công cụ phân tích tài liệu sử dụng AI Gemini](./notebook-llm.md)
 - 🖥️ [Cài đặt Model AI Local và tích hợp sử dụng trên VSCode với Continue.dev extension](./ollama-continue.dev-vscode.md)
+- 🖥️ [Cài đặt Model AI Local và tích hợp sử dụng trên Google Chrome với Page Assist extension](./ollama-with-google-chrome.md)
 
 ---
 
