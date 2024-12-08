@@ -16,19 +16,23 @@ Chào mừng bạn đến với **Lâm Minh Thiện Blog**! Đây là nơi tôi 
 
 ### 3. 🔍 **Công cụ Giám sát và Kiểm Tra**
 - 📡 [Sử dụng Uptime Robot - Kiểm tra trạng thái hoạt động của website, server](./uptime-robot.md)
+- 📡 Sử dụng webhook để gửi thông báo lỗi mỗi khi API, ứng dụng web có lỗi (Coming soon)
 
 ### 4. 🧹 **Quản lý Cache**
 - 🗑️ [Lệnh clear cache Docker, Yarn, NPM](./lenh-clear-cache-docker-yarn-npm.md)
 - 🍎 [Lệnh clear cache macOS](./lenh-clear-cache-macos.md)
 - 🌐 [Lệnh clear cache Chrome, VSCode, Cursor](./lenh-clear-cache-chrome-vscode-cursor.md)
+- 🗑️ OmniDiskSweeper - Công cụ tìm kiếm và phát hiện các tệp tin, thư mục có dung lượng lớn trên Mac OS (Coming soon)
 
 ### 5. 🐳 **Quản lý Docker**
 - 📝 [Xem log container docker](./log-container-docker.md)
 
 ### 6. 📊 **Công cụ Quản lý dữ liệu**
 - 📑 [Airtable: Cách Quản lý Dữ liệu Hiệu Quả](./airtable-blog.md)
+- 📑 Sử dụng Airtable như một API (Coming soon)
+- Google Locker Studio - Công cụ tạo embed web dashboard để thống kê dữ liệu từ Google Analytic, Google Webmaster (Coming soon)
 
-### 6. 📊 **Trí tuệ nhân tạo**
+### 7. 📊 **Trí tuệ nhân tạo**
 - 📑 [Notebook LLM: Công cụ phân tích tài liệu sử dụng AI Gemini](./notebook-llm.md)
 - 🖥️ [Cài đặt Model AI Local và tích hợp sử dụng trên VSCode với Continue.dev extension](./ollama-continue.dev-vscode.md)
 - 🖥️ [Cài đặt Model AI Local và tích hợp sử dụng trên Google Chrome với Page Assist extension](./ollama-with-google-chrome.md)
