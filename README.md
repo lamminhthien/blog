@@ -16,9 +16,10 @@ Chào mừng bạn đến với **Lâm Minh Thiện Blog**! Đây là nơi tôi 
 
 ### 3. 🔍 **Công cụ Giám sát và Kiểm Tra**
 - 📡 [Sử dụng Uptime Robot - Kiểm tra trạng thái hoạt động của website, server](./uptime-robot.md)
+- 📡 Uptime Kuma - Self hosted / Local Docker - Công cụ kiểm tra trạng thái hoạt động của website server (Coming soon)
 - 📡 Sử dụng webhook để gửi thông báo lỗi mỗi khi API, ứng dụng web có lỗi (Coming soon)
 
-### 4. 🧹 **Quản lý Cache**
+### 4. 🧹 **Tối ưu hóa MacOS**
 - 🗑️ [Lệnh clear cache Docker, Yarn, NPM](./lenh-clear-cache-docker-yarn-npm.md)
 - 🍎 [Lệnh clear cache macOS](./lenh-clear-cache-macos.md)
 - 🌐 [Lệnh clear cache Chrome, VSCode, Cursor](./lenh-clear-cache-chrome-vscode-cursor.md)
