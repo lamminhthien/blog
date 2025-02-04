@@ -40,6 +40,11 @@ Chào mừng bạn đến với **Lâm Minh Thiện Blog**! Đây là nơi tôi 
 
 ---
 
+### 8. ** Công cụ hữu ích **
+- Tối ưu dung lượng ảnh hàng loạt
+![image](https://github.com/user-attachments/assets/6c97d407-8774-429a-83e1-562f60cde79d)
+
+
 🌈 **Tại sao theo dõi blog của tôi?**
 - 🤓 Kiến thức thực tế từ kinh nghiệm làm việc
 - 🔬 Hướng dẫn chi tiết, dễ hiểu
