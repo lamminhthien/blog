@@ -44,6 +44,16 @@ Chào mừng bạn đến với **Lâm Minh Thiện Blog**! Đây là nơi tôi 
 - Tối ưu dung lượng ảnh hàng loạt
 ![image](https://github.com/user-attachments/assets/6c97d407-8774-429a-83e1-562f60cde79d)
 
+- Chạy AI Local với giao diện chat trực quan bằng công cụ LM Studio
+![image](https://github.com/user-attachments/assets/55d9c39b-97b4-4c43-88bc-872f957c60cb)
+
+- Cursor Editor: Chương trình soạn thảo Code có hỗ trợ AI
+![image](https://github.com/user-attachments/assets/95080453-29d9-4bf7-a148-6cbbc08ba46f)
+
+- Windsurft Editor: Chương trình soạn thảo Code có hỗ trợ AI Agent mạnh mẽ
+![image](https://github.com/user-attachments/assets/cbf5c16c-0095-48d3-8c88-660e528d708c)
+
+
 
 🌈 **Tại sao theo dõi blog của tôi?**
 - 🤓 Kiến thức thực tế từ kinh nghiệm làm việc
