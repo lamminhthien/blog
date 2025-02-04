@@ -51,7 +51,16 @@ Chào mừng bạn đến với **Lâm Minh Thiện Blog**! Đây là nơi tôi 
 ![image](https://github.com/user-attachments/assets/95080453-29d9-4bf7-a148-6cbbc08ba46f)
 
 - Windsurft Editor: Chương trình soạn thảo Code có hỗ trợ AI Agent mạnh mẽ
+
 ![image](https://github.com/user-attachments/assets/cbf5c16c-0095-48d3-8c88-660e528d708c)
+
+- Maccy: Clipboard manager for macOS
+![image](https://github.com/user-attachments/assets/10481648-b848-48c0-a5f4-59fc6346c174)
+
+- Rectangle: Move and resize windows in macOS using keyboard shortcuts or snap areas
+![image](https://github.com/user-attachments/assets/fb66e2ec-321b-4474-85e7-0aa7f0b7a571)
+![image](https://github.com/user-attachments/assets/b1d2e6cf-31a8-470f-babd-37e11bccdc45)
+
 
 
 
