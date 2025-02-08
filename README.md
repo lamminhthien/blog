@@ -32,6 +32,12 @@
 ![image](https://github.com/user-attachments/assets/7b60219a-13fc-4b88-94e3-9fa3624d6a38)
 
 - Google Apps Script: A cloud-based JavaScript platform powered by Google Drive that lets you integrate with and automate tasks across Google products
+  
+<iframe width="1425" height="668" src="https://www.youtube.com/embed/2eElfBgqJLY" title="what is Google Apps Script?  [Tutorial]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-![image](https://github.com/user-attachments/assets/0ce75de4-c60f-4ed6-9a7a-ea8f9a7c2b62)
+- Dropover - A macOS utility that makes Drag and Drop easier. Stash, gather or move draggable content without having to open side-by-side windows:
+
+https://github.com/user-attachments/assets/5fc4349a-de06-4a92-bd68-23fafa190d3d
+
+
 
